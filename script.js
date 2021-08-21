@@ -141,7 +141,7 @@ class Canvas {
       this.shapeNum = 50;
       this.randomMax = 20;
       this.shapeMaxSize = 80;
-      this.text = 'Grats!';
+      this.text = 'Happy 3rd Anniversary! Jenifer & Madushanka';
     }
   }
   
@@ -213,7 +213,7 @@ class Canvas {
     // size
     if (this.width < 768) {
       this.fontSize = 200;
-      this.text = 'Grats!';
+      this.text = 'Happy 3rd Anniversary! Jenifer & Madushanka';
     } else {
       this.fontSize = 300;
       this.text = 'Happy 3rd Anniversary! Jenifer & Madushanka';
